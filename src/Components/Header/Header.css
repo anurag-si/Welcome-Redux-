@@ -1,0 +1,16 @@
+.header{
+    align-items: center;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+.title {
+    text-transform: uppercase;
+    text-decoration: none;
+    cursor: pointer;
+    color: aliceblue;
+  }
+  
